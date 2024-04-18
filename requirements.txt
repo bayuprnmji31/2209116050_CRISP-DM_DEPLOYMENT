@@ -1,10 +1,7 @@
 streamlit
 pandas
 matplotlib
-searborn
-plotly.express
-sklearn.preprocessing.MinMaxScaler
-sklearn.ensemble.RandomForestRegressor
-plotly.graph_objects
-pickle
+seaborn
+plotly
 joblib
+scikit-learn
